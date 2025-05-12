@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Saksham Tomar<br><br>Engaged with Full Stack Developer | MERN Stack | Innovative Problem Solvers<br><br>🔹 Expert in developing meson stack projects<br><br>🔹 Enjoy working with React (with Vite) + Tailwind CSS for speedy & clean UIs<br><br>🔹 Node Backend experience. js, Express, and MongoDB<br><br>🔹 JWT authentication & Firebase notifications<br><br>🔹 Learning about DSA in C++
+Hi there! 👋 I'm Saksham Tomar<br><br>Engaged with Full Stack Developer | MERN Stack | Innovative Problem Solvers<br><br>🔹 Expert in developing mern stack projects<br><br>🔹 Enjoy working with React (with Vite) + Tailwind CSS for speedy & clean UIs<br><br>🔹 Node Backend experience. js, Express, and MongoDB<br><br>🔹 JWT authentication & Firebase notifications<br><br>🔹 Learning about DSA in C++
 
 
 # 💻 Tech Stack:
